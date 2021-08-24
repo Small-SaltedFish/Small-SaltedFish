@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👯 I’m joining in [Team 3313B](http://www.tzqsng.com/)
+- 👯 I’m joining in [Vex Robotics Competition Team 3313B](http://www.tzqsng.com/)
 
 - 🤝 I’m looking for help with **Nothing now**
 
