@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **xhs0@qq.com**
 
-- 📄 Know about my experiences [https://blog.ssf.moe/about](https://blog.ssf.moe/about)
+- 📄 Know about my experiences [https://blog.ssf.moe/about.html](https://blog.ssf.moe/about.html)
 
 - ⚡ Fun fact **我是伞兵。**
 
