@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sukanu(Small_SaltedFish).</h1>
-<h3 align="center">A 15-year-old student from Zhejiang,China.</h3>
+<h3 align="center">A 18-year-old student from Zhejiang,China.</h3>
 
 ![Sukanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=small-saltedfish&show_icons=true&theme=radical&count_private=true)
 
