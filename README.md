@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Small-SaltedFish](https://github.com/Small-SaltedFish)
 
-- 📝 I regularly write articles on [https://blog.daihan.top](https://blog.daihan.top)
+- 📝 I regularly write articles on [https://blog.ssf.moe](https://blog.ssf.moe)
 
 - 💬 Ask me about **Nothing because I'm noob**
 
 - 📫 How to reach me **xhs0@qq.com**
 
-- 📄 Know about my experiences [https://blog.daihan.top/about](https://blog.daihan.top/about)
+- 📄 Know about my experiences [https://blog.ssf.moe/about](https://blog.ssf.moe/about)
 
 - ⚡ Fun fact **我是伞兵。**
 
