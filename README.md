@@ -5,17 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Small-SaltedFish/Portal_Loginer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Small-SaltedFish&repo=Portal_Loginer&theme=transparent" alt="Portal_Loginer project card">
-  </a>
-  <a href="https://github.com/Small-SaltedFish/Linyu_PWA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Small-SaltedFish&repo=Linyu_PWA&theme=transparent" alt="Linyu_PWA project card">
-  </a>
+  <a href="https://github.com/Small-SaltedFish/Portal_Loginer"><img src="assets/portal-loginer.svg" alt="Portal_Loginer project card" width="390"></a>
+  <a href="https://github.com/Small-SaltedFish/Linyu_PWA"><img src="assets/linyu-pwa.svg" alt="Linyu_PWA project card" width="390"></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Small-SaltedFish&show_icons=true&hide_title=true&theme=transparent" alt="GitHub activity statistics">
-</p>
+<p align="center"><strong>GitHub activity</strong></p>
 
 <p align="center">
   <picture>
@@ -30,3 +24,4 @@
 </p>
 
 <p align="center">Thanks for stopping by — have a lovely day! ✨</p>
+
